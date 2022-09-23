@@ -12,7 +12,6 @@ export default function Getdata() {
      }).catch((err)=>{
           console.log(err);
      })
-     console.log('hello');
   },[])
 
     return (
